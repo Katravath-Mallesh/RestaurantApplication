@@ -1,1 +1,1 @@
-# RestaurantApplication
+This project contains the console based restaurant application in which menu can be displayed,orders will be taken from cutsomers,orderd items will be dispalyed and finally bill along with discount also displayed.
